@@ -2,7 +2,7 @@
 
 # 파일 구조
 
-.idea/
+<summary>.idea/
     misc.xml
     modules.xml
     vcs.xml
@@ -118,9 +118,10 @@ web/
 windows/
     .gitignore
 
-.metadata
-analysis_options.yaml
-flutter_01.png
-pubspec.lock
-pubspec.yaml
-README.md
+.metadata  
+analysis_options.yaml  
+flutter_01.png  
+pubspec.lock  
+pubspec.yaml  
+README.md  
+</summary>
