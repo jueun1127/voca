@@ -19,20 +19,31 @@ android/
                 kotlin/com/example/voca_app/
                     MainActivity.kt
                 res/
-                    drawable-v21/launch_background.xml
-                    drawable/launch_background.xml
-                    mipmap-hdpi/ic_launcher.png
-                    mipmap-mdpi/ic_launcher.png
-                    mipmap-xhdpi/ic_launcher.png
-                    mipmap-xxhdpi/ic_launcher.png
-                    mipmap-xxxhdpi/ic_launcher.png
-                    values-night/styles.xml
-                    values/styles.xml
-            profile/AndroidManifest.xml
+                    drawable-v21/
+                        launch_background.xml
+                    drawable/
+                        launch_background.xml
+                    mipmap-hdpi/
+                        ic_launcher.png
+                    mipmap-mdpi/
+                        ic_launcher.png
+                    mipmap-xhdpi/
+                        ic_launcher.png
+                    mipmap-xxhdpi/
+                        ic_launcher.png
+                    mipmap-xxxhdpi/
+                        ic_launcher.png
+                    values-night/
+                        styles.xml
+                    values/
+                        styles.xml
+            profile/
+                AndroidManifest.xml
         build.gradle.kts
         proguard-rules.pro
     gradle/
-        wrapper/gradle-wrapper.properties
+        wrapper/
+            gradle-wrapper.properties
     build.gradle.kts
     gradle.properties
     settings.gradle.kts
@@ -50,7 +61,8 @@ ios/
             IDEWorkspaceChecks.plist
             WorkspaceSettings.xcsettings
             contents.xcworkspacedata
-            xcschemes/Runner.xcscheme
+            xcschemes/
+                Runner.xcscheme
     Runner.xcworkspace/
         xcshareddata/
             IDEWorkspaceChecks.plist
@@ -58,8 +70,10 @@ ios/
             contents.xcworkspacedata
     Runner/
         Assets.xcassets/
-            AppIcon.appiconset/Contents.json
-            LaunchImage.imageset/Contents.json
+            AppIcon.appiconset/
+                Contents.json
+            LaunchImage.imageset/
+                Contents.json
         Icon-App-1024x1024@1x.png
         Icon-App-20x20@1x.png
         Icon-App-20x20@2x.png
@@ -78,12 +92,14 @@ ios/
         LaunchImage.png
         LaunchImage@2x.png
         LaunchImage@3x.png
-    Base.lproj/LaunchScreen.storyboard
+    Base.lproj/
+        LaunchScreen.storyboard
     Main.storyboard
     AppDelegate.swift
     Info.plist
     Runner-Bridging-Header.h
-    RunnerTests/RunnerTests.swift
+    RunnerTests/
+        RunnerTests.swift
 
 lib/
 
@@ -108,4 +124,3 @@ flutter_01.png
 pubspec.lock
 pubspec.yaml
 README.md
-
