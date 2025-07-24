@@ -1,7 +1,7 @@
 # 확인 부탁드립니다...
 
 # 파일 구조
-<!-- tree
+tree
   root((프로젝트 루트))
     ├─ .idea
     │    ├─ misc.xml
@@ -107,4 +107,4 @@
     ├─ pubspec.lock
     ├─ pubspec.yaml
     └─ README.md
- -->
+
