@@ -1,7 +1,8 @@
 # 확인 부탁드립니다...
 
-# 파일 구조
+## 📂 파일 구조
 
+```plaintext
 .idea/
     misc.xml
     modules.xml
@@ -37,10 +38,8 @@ android/
                         styles.xml
                     values/
                         styles.xml
-        profile/
-            AndroidManifest.xml
-    build.gradle.kts
-    proguard-rules.pro
+        build.gradle.kts
+        proguard-rules.pro
     gradle/
         wrapper/
             gradle-wrapper.properties
@@ -75,7 +74,7 @@ ios/
             LaunchImage.imageset/
                 Contents.json
         Icon-App-1024x1024@1x.png
-        ... (생략)
+        …
         LaunchImage@3x.png
     Base.lproj/
         LaunchScreen.storyboard
